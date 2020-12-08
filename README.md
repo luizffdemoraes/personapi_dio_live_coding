@@ -38,7 +38,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-API REST com Spring Boot para cadastro e gerenciamento de pessoas de uma organização, até o deploy na nuvem (Heroku). 
+API REST com Spring Boot para cadastro e gerenciamento de pessoas :person: de uma organização, até o deploy na nuvem (Heroku). 
 
-:person_frowning::desktop_computer:
 
